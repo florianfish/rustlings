@@ -2,7 +2,7 @@
 fn fill_vec(vec: Vec<i32>) -> Vec<i32> {
     let mut vec = vec;
 
-    vec.pusnh(88);
+    vec.push(88);
 
     vec
 }
